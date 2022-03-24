@@ -1,2 +1,4 @@
-# Watering-System-
-Building a watering system project using C++ coding.
+# Carthago
+
+Dieses Projekt geht um das programmieren von einem Automatic Watering System.
+hello 

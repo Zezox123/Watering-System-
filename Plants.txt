@@ -1,0 +1,10 @@
+1 Tomato 200
+2 Mint 100
+3 RedChilli 200
+4 Basil 150
+5 Eggplant 150
+6 Cactus 100
+7 Coriander 100
+8 Oregano 120
+9 Thyme 120
+10 Aloevera 100
